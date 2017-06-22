@@ -109,3 +109,16 @@ BDArmory.Core/bin/Debug/UnityEngine.dll
 BahaTurret/BDArmory.sln.DotSettings.user
 BahaTurret/BDArmory.csproj.user
 BDArmory.Core/bin/Debug/UnityEngine.UI.dll
+BDArmory.Core/bin/Release/Assembly-CSharp.dll
+BDArmory.Core/bin/Release/BDArmory.Core.dll
+BDArmory.Core/bin/Release/KSPAssets.dll
+BDArmory.Core/bin/Release/UnityEngine.dll
+BDArmory.Core/bin/Release/UnityEngine.UI.dll
+BDArmory/bin/Debug/BDArmory.Core.dll.mdb
+BDArmory/bin/Debug/BDArmory.dll.mdb
+BDArmory/bin/Release/Assembly-CSharp.dll
+BDArmory/bin/Release/BDArmory.Core.dll
+BDArmory/bin/Release/BDArmory.dll
+BDArmory/bin/Release/UnityEngine.dll
+BDArmory/bin/Debug/BDArmory.dll.mdb
+BDArmory/bin/Debug/BDArmory.Core.dll.mdb

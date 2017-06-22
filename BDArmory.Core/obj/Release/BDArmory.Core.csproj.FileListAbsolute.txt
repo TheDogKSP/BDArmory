@@ -14,3 +14,12 @@ C:\Users\jesus\Source\Repos\BDArmory_JRODRIGV\BDArmory.Core\bin\Release\Mono.Sec
 C:\Users\jesus\Source\Repos\BDArmory_JRODRIGV\BDArmory.Core\bin\Release\UnityEngine.xml
 C:\Users\jesus\Source\Repos\BDArmory_JRODRIGV\BDArmory.Core\obj\Release\BDArmory.Core.dll
 C:\Users\jesus\Source\Repos\BDArmory_JRODRIGV\BDArmory.Core\obj\Release\BDArmory.Core.pdb
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\BDArmory.Core.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\BDArmory.Core.pdb
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\Assembly-CSharp.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\KSPAssets.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\UnityEngine.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\bin\Release\UnityEngine.UI.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\obj\Release\BDArmory.Core.csprojResolveAssemblyReference.cache
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\obj\Release\BDArmory.Core.dll
+D:\wip\ksp-mod-dev\BDA-TheDog\BDArmory.Core\obj\Release\BDArmory.Core.pdb
