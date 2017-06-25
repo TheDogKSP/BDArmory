@@ -31,6 +31,7 @@ namespace BDArmory.UI
         [BDAPersistantSettingsField] public static bool BOMB_CLEARANCE_CHECK = true;
         [BDAPersistantSettingsField] public static float DMG_MULTIPLIER = 100;
         [BDAPersistantSettingsField] public static float FLARE_CHANCE_FACTOR = 25;
+        [BDAPersistantSettingsField] public static bool NO_PHYSICS_FOR_WEAPON_PARTS = true;
 
         public static bool SMART_GUARDS = true;
 
@@ -1348,6 +1349,8 @@ namespace BDArmory.UI
             line++;
             ALLOW_LEGACY_TARGETING = GUI.Toggle(SLeftRect(line), ALLOW_LEGACY_TARGETING, "Legacy Targeting");
             SHELL_COLLISIONS = GUI.Toggle(SRightRect(line), SHELL_COLLISIONS, "Shell Collisions");
+            line++;
+            NO_PHYSICS_FOR_WEAPON_PARTS = GUI.Toggle(SRightRect(line), NO_PHYSICS_FOR_WEAPON_PARTS, "Weapons are physicsless");
             line++;
             line++;
 

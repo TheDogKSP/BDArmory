@@ -2045,6 +2045,14 @@ namespace BDArmory
 
                 EngageableWeapon engageableWeapon = weapon.Current as EngageableWeapon;
 
+                if (BDArmorySettings.NO_PHYSICS_FOR_WEAPON_PARTS)
+                {
+                    // TEST: disable physics
+                    engageableWeapon.part.physicalSignificance = Part.PhysicalSignificance.NONE;
+                    engageableWeapon.part.deactivate();
+                    // END TEST
+                }
+
                 if (engageableWeapon != null)
                 {
                     if (engageableWeapon.GetEngageAirTargets()) weaponTypesAir.Add(weapon.Current);
