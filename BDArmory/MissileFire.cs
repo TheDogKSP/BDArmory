@@ -2045,7 +2045,7 @@ namespace BDArmory
 
                 EngageableWeapon engageableWeapon = weapon.Current as EngageableWeapon;
 
-                if (BDArmorySettings.NO_PHYSICS_FOR_WEAPON_PARTS)
+                if (BDArmorySettings.NO_PHYSICS_FOR_WEAPON_PARTS && engageableWeapon is MissileLauncher)
                 {
                     // TEST: disable physics
                     engageableWeapon.part.physicalSignificance = Part.PhysicalSignificance.NONE;
